@@ -1,0 +1,7 @@
+PyQt5==5.15.6
+numpy==1.22.2
+opencv-python==4.5.5.62
+os-sys
+pytesseract==0.3.8
+DateTime==4.4
+Pillow==9.0.1
